@@ -1,0 +1,10 @@
+body{
+    background: rgb(186, 253, 233);
+}
+h1{
+    color: olivedrab; font-style: italic;
+}
+
+h1.edurne::after {
+    content: "🖥️";
+}
